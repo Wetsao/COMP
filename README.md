@@ -1,5 +1,7 @@
 # Comp2024 Project
 
+Design and Implementation of the Java-- Compiler
+
 ## Group Members 
 
 - Alexandre Felgueiras de Morais (up201906049@fe.up.pt)
